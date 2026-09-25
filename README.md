@@ -22,7 +22,7 @@
 ```yaml
 name:      Kaizer Dewaswala
 role:      AI / GenAI Engineer · Backend SDE
-education: B.E. Information Science & Engineering @ RVCE, Bengaluru (CGPA 8.43)
+education: B.E. Information Science & Engineering @ RVCE, Bengaluru (CGPA 8.52)
 focus:     LLM orchestration · Multi-agent systems · RAG pipelines · Real-time backends
 building:  Production-grade AI systems with an obsession for latency, cost & measurable outcomes
 open_to:   AI/GenAI Engineer & Backend SDE roles (2026)
